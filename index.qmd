@@ -1,11 +1,29 @@
 ---
-title: "azzlam97.github.io"
+title: "Aaron Lam"
+about:
+  template: jolla
+  image-shape: rounded
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/aaron-lam-0aa484241/
+    - text: Twitter
+      href: https://twitter.com/azzlam97/
+    - text: email
+      href: mailto:aaron.lam.97@hotmail.com
 ---
 
-This is a Quarto website.
+## About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm Aaron and I am a sports analyst graduate, looking to begin my career in sports analytics. I am keenly interested in AFL and Soccer, but have interests in many other sports too. This website serves as a portal to everything about me and my work in analytics, feel free to explore and get in contact if you do so desire :)
 
-```{r}
-1 + 1
-```
+## Education and Experience
+
+**Bachelor of Exercise Science** - *Victoria University*
+
+**Master of Sport Analytics** - *La Trobe University*
+
+**Football Statistical Analyst** - *Premier Data*
+
+**Performance Analyst Intern** - *Collingwood Football Club*
+
+**Sports Coach** - *Westbourne Grammar School*
