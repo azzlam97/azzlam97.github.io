@@ -5,7 +5,7 @@ about:
   image-shape: rounded
   links:
     - text: LinkedIn
-      href: https://www.linkedin.com/in/aaron-lam-0aa484241/
+      href: www.linkedin.com/in/aaron-lam-al97
     - text: Twitter
       href: https://twitter.com/azzlam97/
     - text: email
