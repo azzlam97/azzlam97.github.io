@@ -23,6 +23,12 @@ Screenshots from my thesis presentation.
 
 {{< tweet david_carey 1726744924375388499 >}}
 
+# AFL Analysis
+
+Challenging myself to try put out one piece of analytics each round from a match which I have watched from the weekend. Below is an example.
+
+{{< tweet azla_ds 1906110378142273899>}}
+
 # Other Work
 
 These are an assortment of work ranging from university assignments to things I've done at work.
