@@ -7,7 +7,7 @@ about:
     - text: LinkedIn
       href: www.linkedin.com/in/aaron-lam-al97
     - text: Twitter
-      href: https://twitter.com/azzlam97/
+      href: https://twitter.com/azla_ds/
     - text: email
       href: mailto:aaron.lam.97@hotmail.com
 ---
@@ -18,12 +18,22 @@ I'm Aaron and I am a sports analyst graduate, looking to begin my career in spor
 
 ## Education and Experience
 
-**Bachelor of Exercise Science** - *Victoria University*
+*Victoria University*
 
-**Master of Sport Analytics** - *La Trobe University*
+-   **Bachelor of Exercise Science**
 
-**Football Statistical Analyst** - *Premier Data*
+*La Trobe University*
 
-**Performance Analyst Intern** - *Collingwood Football Club*
+-   **Master of Sport Analytics**
 
-**Sports Coach** - *Westbourne Grammar School*
+*Premier Data*
+
+-   **Football Statistical Analyst**
+
+*Collingwood Football Club*
+
+-   **Performance Analyst Intern**
+
+-   **Data and Performance Analyst**
+
+-   **Data Scientist Lead**
